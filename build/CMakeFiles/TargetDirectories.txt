@@ -1,0 +1,3 @@
+/home/tanishq/Desktop/liquid-rescaling/build/CMakeFiles/LiquidRescaling.dir
+/home/tanishq/Desktop/liquid-rescaling/build/CMakeFiles/edit_cache.dir
+/home/tanishq/Desktop/liquid-rescaling/build/CMakeFiles/rebuild_cache.dir
